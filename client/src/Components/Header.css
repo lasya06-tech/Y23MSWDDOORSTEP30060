@@ -1,0 +1,15 @@
+.header {
+    padding: 10px;
+    background-color: grey;
+  }
+  
+  .header ul {
+    display: flex;
+    gap: 95px;
+    list-style: none;
+  }
+  
+  .header ul li a {
+    text-decoration: none;
+    color: white;
+  }

@@ -1,0 +1,32 @@
+div {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    color:#333;
+    font-size: 24px;
+}
+table{
+    width: 80%;
+    margin-left: 120px;
+    border-collapse: collapse;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+th,td{
+    padding: 12px 15px;
+    text-align: left;
+    border: 2px solid greenyellow;
+}
+th {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+}
+tr:hover {
+    background-color: pink;
+    cursor: pointer;
+}

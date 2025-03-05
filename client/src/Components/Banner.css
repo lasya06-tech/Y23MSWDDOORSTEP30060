@@ -1,0 +1,22 @@
+.banner {
+    text-align: center;
+  }
+  
+  .banner h1,
+  .banner p {
+    margin: 0;
+  }
+  
+  .banner button {
+    margin-top: 20px;
+    background-color: pink;
+    color: gray;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .banner button:hover {
+    background-color: orange;
+    color: black;
+  }
